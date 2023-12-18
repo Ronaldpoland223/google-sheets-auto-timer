@@ -6,12 +6,7 @@
       "oflPlay": "https://play.google.com/store/apps/details?id=tech.pylons.wallet&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
       "oflIOS": "https://apps.apple.com/us/app/pylons/id1598732789"
     },
-    "coins": [
-      {
-        "denom": "uatom",
-        "displayName": "ATOM",
-        "fraction": 1000000
-      },
+
       {
         "denom": "ubedrock",
         "displayName": "UBEDROCK",
